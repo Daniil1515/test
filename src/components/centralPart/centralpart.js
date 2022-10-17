@@ -40,7 +40,7 @@ import attention from '../../img/attention.svg'
 
 const Centralpart = () => {
     return (
-        <div className="tooltip__content">
+
             <div className="splitter_panel tool__main--">
                 <div className="tooltip__main--container right_panel">
                     <div className="tooltip__main">
@@ -4068,7 +4068,6 @@ const Centralpart = () => {
                     </div>
                 </div>
             </div>
-        </div>
     );
 };
 
